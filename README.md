@@ -34,7 +34,9 @@ Option 1: Run the application remotely on local Server
 Option 2: Follow Link to Deployed App, https://muhamaddiyah-minimart.netlify.app/ 
 
 >>> User: Joshuachen03@gmail.com, Password: 123456
+>>> 
 >>> Staff: pengrongneo@gmail.com, Password: 12345678
+>>> 
 >>> To create new staff account, staff ID: MWHSTAFF123
 
 # 4. Features
