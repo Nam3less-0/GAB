@@ -1,5 +1,7 @@
 # GAB X Muhammadiyah Welfare Home
 
+![image](https://github.com/user-attachments/assets/c260c844-a371-42a3-88fb-3f80a42d5518)
+
 # 1. Introduction 
 The Minimart and Voucher System for Muhammadiyah Welfare Home (MWH) is a web-based application designed to empower residents and streamline operational management. Built with the vision of fostering a nurturing and efficient environment, this system provides an intuitive platform for residents to request products, earn and manage vouchers, and track their transactions, while equipping administrators with powerful tools for user, inventory, and voucher management.
 Purpose and Objectives
