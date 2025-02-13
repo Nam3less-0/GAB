@@ -30,6 +30,7 @@ Set Up Firebase
 
 Start the application
 	npm start
+
 # 3. Usage
 Option 1: Run the application remotely on local Server
 
@@ -48,6 +49,8 @@ User Friendly Dashboard showing voucher balances, transaction history, and avail
 Voucher Balances
 The dashboard prominently displays voucher balances, allowing users to quickly check their available credit.
 Real-time updates ensure that users always have an accurate view of their remaining balance
+
+![image](https://github.com/user-attachments/assets/b05142b3-c9ed-4089-b980-017cad3f1442)
 
 Transaction History
 Shows date and time of transaction, and product purchased
